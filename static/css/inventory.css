@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    height: 10vh;
+    justify-content: space-between;
+    background-color: brown;
+    align-items: center;
+}
+.navlinks{
+    display: flex;
+}
+.navlinkstext{
+    margin-left: 1rem;
+}

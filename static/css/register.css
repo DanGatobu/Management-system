@@ -1,0 +1,12 @@
+.herosection{
+    height: 100rem;
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   /* background-image: url(/static/images/nrd-D6Tu_L3chLE-unsplash.jpg);*/
+    background-size: cover;
+}
+.herotext{
+    text-decoration-color: aqua;
+}
